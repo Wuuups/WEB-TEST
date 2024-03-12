@@ -1,5 +1,5 @@
 {
-  "name": "express03",
+  "name": "web-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "sam",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
